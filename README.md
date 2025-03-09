@@ -1,7 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+-Added 3 enemies that are that chagre, move, or jump towards the player. 
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +14,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Vantin San
